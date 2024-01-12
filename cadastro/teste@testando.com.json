@@ -1,0 +1,14 @@
+{
+  "nome": "Teste",
+  "sobrenome": "Testando",
+  "dataNascimento": "01/01/2000",
+  "email": "teste@testando.com",
+  "cpf": "123.456.789-00",
+  "cep": "08130000",
+  "endereco": "Rua Desembargador Isnard dos Reis",
+  "numero": "123",
+  "cidade": "São Paulo",
+  "bairro": "Cidade Kemel",
+  "complemento": "apto 123",
+  "dataHoraCadastro": "12/01/2024 12:46"
+}
