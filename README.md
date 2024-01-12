@@ -1,5 +1,5 @@
 # React_Form_and_Json_Api
-Formulário completo com mascaras de Data e CPF, pesquisa de CEP e preenchimento automático e Salvamento em arquivo JSON.
+Formulário completo com mascaras de Data e CPF, pesquisa de CEP e preenchimento automático, Salvamento em arquivo JSON fisico em pasta de cadastro. Validação se e-mail já existe.
 <br>
 <br>
 Para fazer o projeto funcionar da forma correta, deverá realizar os seguintes passos.
